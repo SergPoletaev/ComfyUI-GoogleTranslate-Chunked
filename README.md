@@ -129,11 +129,6 @@ pip install googletrans==4.0.0-rc1
 
 Для очень длинных текстов с большим количеством частей Google может временно ограничить запросы. Подождите несколько минут и попробуйте снова.
 
-### Благодарности
-
-- Основано на оригинальной GoogleTranslateNode от AlekPet
-- Модифицировано для поддержки автоматического разбиения длинных текстов
-
 ---
 
 ## 🇨🇳 中文
@@ -257,11 +252,6 @@ pip install googletrans==4.0.0-rc1
 #### 频率限制
 
 对于包含多个分块的非常长的文本，Google可能会临时限制请求。请等待几分钟后重试。
-
-### 致谢
-
-- 基于AlekPet的原始GoogleTranslateNode
-- 修改以支持长文本的自动分块
 
 ---
 
@@ -387,7 +377,3 @@ The node uses the unofficial Google Translate API which may occasionally fail. T
 
 For very long texts with many chunks, Google may temporarily rate-limit requests. Wait a few minutes and try again.
 
-### Credits
-
-- Based on the original GoogleTranslateNode by AlekPet
-- Modified to support automatic chunking for long texts
